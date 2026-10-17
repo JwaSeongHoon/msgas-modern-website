@@ -1,0 +1,6 @@
+{
+  "name": "MS GAS - 대한민국 고압가스 토탈 솔루션",
+  "description": "50년 전통의 대한민국 고압가스, 초고순도 특수가스, 의료용 가스 및 초저온 플랜트 엔지니어링 포털",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
